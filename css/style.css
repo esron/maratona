@@ -1,0 +1,17 @@
+#top_ {
+  background-image: url("../img/bkgr.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header, div.footer-above, #portfolio, .navbar{
+  background-color: #333333;
+}
+
+div.footer-below {
+  background-color: #000;
+}
+
+h4 {
+  text-align: center;
+}
