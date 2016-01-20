@@ -22,11 +22,20 @@ h4 {
 #bs-example-navbar-collapse-1{
 	color: #000;
 }
-.intro-text{
+.intro-text {
 	color: #000;
 }
 hr {
       color: #000;
       background-color: #000;
       height: 1px;
-    }
+}
+
+.img-thumbnail {
+    border-color: #000;
+    background-color: #000;
+}
+
+#navlink {
+    color: #FFF;
+}
